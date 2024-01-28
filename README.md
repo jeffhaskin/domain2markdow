@@ -3,7 +3,18 @@
 This project provides a Python application that crawls web pages starting from a given URL, extracts links that match a specified prefix (in case you only want the pages with a url that starts with "https://www.website.com/docs" or something), and converts the content of each page into Markdown file which it saves to an output folder on you computer. The application is built using PyQt5 for the GUI, allowing users to input a starting URL and a valid URL prefix for crawling. It is not asyncchronous and does this sequencially.
 
 ## Installation
+### MacOS
+Run this terminal command to install and open the program:
+```bash
+git clone https://github.com/jeffhaskin/domain2markdow.git ~/domain2markdown && cd ~/domain2markdown && pip3 install PyQt5 requests beautifulsoup4 markdownify && python3 crawler_0-0-3.py
+```
 
+Run this terminal command to run the program if you have already installed it:
+```bash
+python3 ~/domain2markdown/crawler_0-0-3.py
+```
+
+I don't know what is is for Windows or Linux.
 
 ## Usage
 **Starting URL:** Enter the URL where you want the crawler to start.
