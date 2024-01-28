@@ -6,7 +6,7 @@ This project provides a Python application that crawls web pages starting from a
 ### MacOS
 Run this terminal command to install and open the program:
 ```bash
-git clone https://github.com/jeffhaskin/domain2markdow.git ~/domain2markdown && cd ~/domain2markdown && pip3 install PyQt5 requests beautifulsoup4 markdownify && python3 crawler_0-0-3.py
+git clone https://github.com/jeffhaskin/domain2markdown.git ~/domain2markdown && cd ~/domain2markdown && pip3 install PyQt5 requests beautifulsoup4 markdownify && python3 crawler_0-0-3.py
 ```
 
 Run this terminal command to run the program if you have already installed it:
