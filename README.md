@@ -2,7 +2,7 @@
 
 This project provides a Python application that crawls web pages starting from a given URL, extracts links that match a specified prefix (in case you only want the pages with a url that starts with "https://www.website.com/docs" or something), and converts the content of each page into Markdown file which it saves to an output folder on you computer.
 
-This was made to service a larger AI RAG project, enabling the user to chat with an assistant about the contents of a wiki or other website. I published this program separately, since it's useful for other context as well.
+This was made to service a larger AI RAG project, enabling the user to chat with an assistant about the contents of a wiki or other website. I published this program separately, since it's useful in other contexts as well.
 
 The application is built using PyQt5 for the GUI, allowing users to input a starting URL and a valid URL prefix for crawling. It is not asyncchronous and does this sequencially.
 
