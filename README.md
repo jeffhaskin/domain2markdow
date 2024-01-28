@@ -37,15 +37,6 @@ See the versions.txt file for info on 0.0.1 and 0.0.2.
 - Output Organization: Saves the converted Markdown files in a directory named after the domain of the starting URL, organizing content efficiently.
 
 ## Prerequisites
-Before running the application, ensure you have the following installed:
-
-PyQt5
-Requests
-BeautifulSoup4
-Markdownify
-os
-sys
-
 You can install the necessary libraries using pip:
 
 ```
