@@ -14,11 +14,13 @@ PyQt5
 Requests
 BeautifulSoup4
 Markdownify
+os
+sys
 
 You can install the necessary libraries using pip:
 
 ```
-pip install PyQt5 requests beautifulsoup4 markdownify
+pip install PyQt5 requests beautifulsoup4 markdownify sys os
 ```
 
 ## Usage
