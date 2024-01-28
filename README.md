@@ -18,7 +18,9 @@ I don't know what is is for Windows or Linux.
 
 ## Usage
 **Starting URL:** Enter the URL where you want the crawler to start.
+
 **URL Prefix:** Specify the URL prefix to filter the links that the crawler should follow. Only links that start with this prefix will be considered.
+
 **Start:** Click the "Start" button to initiate the crawling and conversion process. The progress will be displayed in real-time, and the converted Markdown files will be saved in the specified output directory.
 
 ## Output
