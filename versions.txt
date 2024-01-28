@@ -1,0 +1,11 @@
+# Version 0.0.1
+
+- crawls every page in a domain and saves as markdown in an output folder.
+
+# Version 0.0.2
+
+- asks the user for the starting url and the filtering url string.
+
+# Version 0.0.3
+
+- added a gui
